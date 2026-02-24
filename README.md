@@ -1,0 +1,1 @@
+This repository contains the simulation code to calculate the sample size for the full-scale DREAM-HD trial. DREAM-HD Simulation.R contains the simulation code, while DREAM-HD-aggregate-counts.csv contains the baseline and odds ratio shifted distributions. 
